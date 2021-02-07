@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Freelance
+- 💼 I’m currently working as a freelancer
 - 🌱 I’m currently learning UX/UI Design
 - 📫 How to reach me: Email.
