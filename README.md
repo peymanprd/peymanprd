@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-- 💼 I’m currently working as a freelance designer/developer
-- 🌱 I’m always a learner
-- 📫 How to reach me: Email.
-- - [x] HTML5
+```json
+{
+  "firstName": "Peyman",
+  "lastName": "Pirzadeh"
+}
+```
+- [x] HTML5
 - [x] CSS3
 - [x] JS
