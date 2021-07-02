@@ -13,5 +13,6 @@
 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?logo=SASS&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+ <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Avuejs"><img alt="Vuejs" src="https://img.shields.io/badge/Vuejs%20-%23007ACC.svg?logo=vuejs&logoColor=white"></a>
 </p>
 
