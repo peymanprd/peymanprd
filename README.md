@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-```json
+```javascript
 {
   "firstName": "Peyman",
   "lastName": "Pirzadeh"
 }
 ```
-- [x] HTML5
-- [x] CSS3
-- [x] JS
+- [x] HTML5 [x] CSS3 [x] JS
