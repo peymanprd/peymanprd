@@ -3,4 +3,6 @@
 - 💼 I’m currently working as a freelance designer/developer
 - 🌱 I’m always a learner
 - 📫 How to reach me: Email.
-- {% highlight html %}{% raw %}
+- - [x] HTML5
+- [x] CSS3
+- [x] JS
