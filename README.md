@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-```javascript
+```json
 {
-  "firstName": "Peyman",
+  "fullName": "Peyman Pirzadeh",
   "lastName": "Pirzadeh"
 }
 ```
-- [x] HTML5 - [x] CSS3 - [x] JS
+- [x] HTML5 
+- [x] CSS3 
+- [x] JS
+![Progress Bar CI]
