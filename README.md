@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Peyman, a Frontend Developer
 
 - 🔭 I’m currently working on some projects
-- 🌱 I’m currently learning some fun
+- 🌱 I’m currently learning more fun things right now
 - 👯 I’m looking to collaborate on great team
-- 💬 Ask me about your question
-- 📫 How to reach me: dev.pirzadeh@gmail.com
+- 💬 Ask me about your questions
+- 📫 How to reach me : dev.pirzadeh@gmail.com
 
 ###
 
