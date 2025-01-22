@@ -1,27 +1,27 @@
-# Hi, I'm Peyman 👋  
-### A Frontend Developer passionate about building beautiful and user-friendly interfaces.
+# Hey, I'm Peyman! 👋  
+### A Frontend Developer who loves building beautiful and user-friendly interfaces.
 
-I specialize in creating fast, responsive, and accessible web experiences using modern frontend technologies. I love turning ideas into reality with clean and efficient code.
+I enjoy creating things that not only look good but are also fun to use. My specialty is turning ideas into reality using modern frontend technologies.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ What I Work With
 
 - **Languages & Frameworks**:  
-  HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue.js
+  HTML, CSS, JavaScript, TypeScript, Vue.js, Nuxt
 
 - **Design Tools**:  
-  Figma, Adobe XD
+  Figma
 
 - **Development Tools**:  
-  Git, Webpack, Vite
+  Git, Vite
 
 - **Other Skills**:  
   Responsive Design, Accessibility, Performance Optimization
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peymanprd&show_icons=true&theme=radical)
 
@@ -29,16 +29,16 @@ I specialize in creating fast, responsive, and accessible web experiences using 
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Chat!
 
-Feel free to reach out if you'd like to collaborate or just say hi!
+If you want to collaborate, have a question, or just want to say hi, feel free to reach out!
 
 - **Email**: [peymanprd@example.com](mailto:peymanprd@example.com)
 - **LinkedIn**: [Peyman Prd](https://www.linkedin.com/in/peymanprd)
 
 ---
 
-## 💡 Inspiration
+## 💡 A Little Inspiration
 
-> "Design is not just what it looks like and feels like. Design is how it works."  
+> "Design is not just what it looks like. Design is how it works."  
 > — Steve Jobs
