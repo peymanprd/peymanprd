@@ -1,44 +1,32 @@
-# Hey, I'm Peyman! 👋  
-### A Frontend Developer who loves building beautiful and user-friendly interfaces.
+### Frontend Developer | Crafting Intuitive Interfaces
 
-I enjoy creating things that not only look good but are also fun to use. My specialty is turning ideas into reality using modern frontend technologies.
-
----
-
-## 🛠️ What I Work With
-
-- **Languages & Frameworks**:  
-  HTML, CSS, JavaScript, TypeScript, Vue.js, Nuxt
-
-- **Design Tools**:  
-  Figma
-
-- **Development Tools**:  
-  Git, Vite
-
-- **Other Skills**:  
-  Responsive Design, Accessibility, Performance Optimization
+I turn ideas into elegant, responsive, and user-friendly web experiences. Passionate about clean code, modern design, and seamless interactions.
 
 ---
 
-## 📊 My GitHub Stats
+## 🛠️ Tools & Tech
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peymanprd&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peymanprd&layout=compact&theme=radical)
-
----
-
-## 📫 Let's Chat!
-
-If you want to collaborate, have a question, or just want to say hi, feel free to reach out!
-
-- **Email**: [peymanprd@example.com](mailto:peymanprd@example.com)
-- **LinkedIn**: [Peyman Prd](https://www.linkedin.com/in/peymanprd)
+- **Frontend**: HTML, CSS, JavaScript, TypeScript  
+- **Frameworks**: Vue.js, Nuxt 
+- **Tools**: Git, Vite, Figma  
+- **Focus**: Responsive Design, Accessibility, Performance
 
 ---
 
-## 💡 A Little Inspiration
+## 📊 GitHub Activity
 
-> "Design is not just what it looks like. Design is how it works."  
-> — Steve Jobs
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peymanprd&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peymanprd&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 📫 Let’s Build Something Great
+
+- **Email**: [dev.pirzadeh@gmail.com](mailto:dev.pirzadeh@gmail.com)  
+- **LinkedIn**: [Peyman Pirzadeh](https://www.linkedin.com/in/peymanpirzadeh)   
+
+---
+
+> "Simplicity is the ultimate sophistication."  
+> — Leonardo da Vinci
